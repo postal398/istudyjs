@@ -1,0 +1,9 @@
+.Zagolovok {text-align: center;}
+
+div {border-style: dotted;
+    border-width: 10px;
+}
+
+.JSdiv {border-style: solid;
+        border-width: 10px;
+}
